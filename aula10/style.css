@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+}
+.container-1{
+    background-color: brown;
+    padding-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border: 5px solid black;
+    border-radius: 5px;
+}

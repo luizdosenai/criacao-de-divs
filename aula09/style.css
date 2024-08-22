@@ -1,0 +1,17 @@
+div{
+    background-color: aqua;
+}
+.um{
+    background-color: rgb(157, 255, 0);
+}
+.tres{
+    background-color: blueviolet;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(matriz-bordado-bob-esponja-lula-molusco-4-tamanhos-brother.webp);
+    background-repeat: repeat-y;
+    background-repeat: round
+
+}
